@@ -27,7 +27,8 @@ With Loopring's technology being fairly new, it's hard to gauge just how much of
 
 If we take a look at Looprings' fully diluted market cap using the following formula:
    
-    FDMC = price x max supply // ($).2987 x ($)1,374,513,896 = $410,567,300.74
+   
+>FDMC = price x max supply // ($).2987 x ($)1,374,513,896 = $410,567,300.74
 
 
 $410,567,300.74 alone puts Loopring in the top 100 tokens in the crypto ecosystem (86th currently). However, there are currently tens of thousands of Loopring wallets created (with 22K logged at the beginning of 2022) and a daily average trading volume of $50M. Loopring has it's own space in Reddit with just over 100K users, which puts Loopring's user engagement higher than it's FDMC, which sets it at the 86th rated token in the crypto-space. With this type of engagement, we can estimate that Loopring, along with its zkRollup technology, puts it well above the 86th largest crypto technology organization - token.[2]
